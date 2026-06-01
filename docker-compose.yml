@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+
+  app:
+    build: .
+    container_name: audiencia-app
+    restart: always
+
+    ports:
+      - "127.0.0.1:3007:3000"
