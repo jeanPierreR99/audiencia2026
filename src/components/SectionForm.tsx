@@ -257,7 +257,7 @@ const SectionForm = () => {
                                         {
                                             icon: Mail,
                                             title: "Correo",
-                                            text: "informes@munitambopata.gob.pe",
+                                            text: "mesadepartes@munitambopata.gob.pe",
                                         },
                                         {
                                             icon: MapPin,
@@ -280,7 +280,7 @@ const SectionForm = () => {
                                                     {item.title}
                                                 </h4>
 
-                                                <p className="mt-2 text-sm text-slate-300 leading-relaxed">
+                                                <p className="mt-2 text-sm text-slate-300 leading-relaxed truncate">
                                                     {item.text}
                                                 </p>
                                             </div>

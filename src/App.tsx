@@ -123,7 +123,7 @@ export default function App() {
                       <p className="font-bold">Dirección</p>
 
                       <p className="text-slate-400">
-                        Av. León Velarde N° 123 - Puerto Maldonado
+                        Av. León Velarde N° 230 - Puerto Maldonado
                       </p>
                     </div>
                   </div>
@@ -151,7 +151,7 @@ export default function App() {
                       <p className="font-bold">Correo Electrónico</p>
 
                       <p className="text-slate-400">
-                        informes@munitambopata.gob.pe
+                        mesadepartes@munitambopata.gob.pe
                       </p>
                     </div>
                   </div>
