@@ -128,7 +128,7 @@ export default function App() {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-4">
+                  {/* <div className="flex items-start gap-4">
                     <div className="w-12 h-12 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center">
                       ☎️
                     </div>
@@ -140,7 +140,7 @@ export default function App() {
                         (082) 000000
                       </p>
                     </div>
-                  </div>
+                  </div> */}
 
                   <div className="flex items-start gap-4">
                     <div className="w-12 h-12 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center">

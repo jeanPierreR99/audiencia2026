@@ -41,7 +41,7 @@ const Hero = () => {
                                 <div className="w-3 h-3 rounded-full bg-green-500 animate-pulse" />
 
                                 <span className="uppercase tracking-[0.25em] text-xs md:text-sm font-black text-green-600">
-                                    1ra Audiencia Pública 2026
+                                    2da Audiencia Pública 2026
                                 </span>
                             </div>
 
@@ -87,7 +87,7 @@ const Hero = () => {
                                     <CalendarDays className="text-green-600" />
 
                                     <span className="font-semibold">
-                                        30 Junio 2026
+                                        27 Noviembre 2026
                                     </span>
                                 </div>
 
@@ -103,7 +103,7 @@ const Hero = () => {
                                     <MapPin className="text-green-600" />
 
                                     <span className="font-semibold">
-                                        Atrio del Palacio Municipal
+                                        Auditorio del Palacio Municipal
                                     </span>
                                 </div>
                             </div>

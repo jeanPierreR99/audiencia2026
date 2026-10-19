@@ -238,12 +238,12 @@ const SectionForm = () => {
                         {/* EVENT CARD */}
                         <div className="mt-14 rounded-[36px] border border-white/10 bg-white/5 backdrop-blur-2xl overflow-hidden">
                             {/* IMAGE */}
-                            <div className="relative h-[420px] overflow-hidden">
+                            {/* <div className="relative h-[420px] overflow-hidden">
                                 <img
                                     src="/fondo.png"
                                     className="w-full h-full"
                                 />
-                            </div>
+                            </div> */}
 
                             {/* INFO */}
                             <div className="p-8">

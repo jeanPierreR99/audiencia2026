@@ -112,7 +112,7 @@ export default function AboutAudience() {
                         transition={{ duration: 0.7 }}
                     >
                         <h3 className="mt-6 text-4xl font-black leading-tight text-slate-900">
-                            Principales resultados de la audiencia pública 2025
+                            Principales resultados de la Primera Audiencia pública 2026
                         </h3>
 
                         <p className="mt-6 text-lg text-slate-600 leading-relaxed">
@@ -164,7 +164,7 @@ export default function AboutAudience() {
                             <div className="absolute bottom-0 left-0 right-0 p-10">
                                 <div className="bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl p-6">
                                     <h4 className="text-white text-2xl font-black">
-                                        Audiencia Pública 2025
+                                        Primera Audiencia Pública 2026
                                     </h4>
 
                                     <p className="mt-3 text-slate-200 leading-relaxed">
